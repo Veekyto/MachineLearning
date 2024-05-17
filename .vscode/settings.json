@@ -1,7 +1,12 @@
 {
   "cSpell.words": [
+    "toarray",
+    "xfull",
     "xtest",
     "xtrain",
-    "ytest"
+    "yfull",
+    "ytest",
+    "iloc",
+    "classif"
   ]
 }
